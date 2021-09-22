@@ -278,17 +278,6 @@
         <tr>
             <td align="center">
                 <img src="?" height="100px"> <br/>
-                Zeichen 315-53 <br/>
-                Parken auf Gehwegen <br/>
-                halb in Fahrtrichtung links, Mitte
-            </td>
-            <td><table>
-                <tr><td align="right"><code>T</code></td><td><code>V</code></td></tr>
-            </table></td>
-        </tr>
-        <tr>
-            <td align="center">
-                <img src="?" height="100px"> <br/>
                 Zeichen 315-55 <br/>
                 Parken auf Gehwegen <br/>
                 halb in Fahrtrichtung rechts
@@ -314,17 +303,6 @@
                 Zeichen 315-57 <br/>
                 Parken auf Gehwegen <br/>
                 halb in Fahrtrichtung rechts, Ende
-            </td>
-            <td><table>
-                <tr><td align="right"><code>T</code></td><td><code>V</code></td></tr>
-            </table></td>
-        </tr>
-        <tr>
-            <td align="center">
-                <img src="?" height="100px"> <br/>
-                Zeichen 315-58 <br/>
-                Parken auf Gehwegen <br/>
-                halb in Fahrtrichtung rechts, Mitte
             </td>
             <td><table>
                 <tr><td align="right"><code>T</code></td><td><code>V</code></td></tr>
@@ -366,17 +344,6 @@
         <tr>
             <td align="center">
                 <img src="?" height="100px"> <br/>
-                Zeichen 315-63 <br/>
-                Parken auf Gehwegen <br/>
-                ganz in Fahrtrichtung links, Mitte
-            </td>
-            <td><table>
-                <tr><td align="right"><code>T</code></td><td><code>V</code></td></tr>
-            </table></td>
-        </tr>
-        <tr>
-            <td align="center">
-                <img src="?" height="100px"> <br/>
                 Zeichen 315-65 <br/>
                 Parken auf Gehwegen <br/>
                 ganz in Fahrtrichtung rechts
@@ -402,17 +369,6 @@
                 Zeichen 315-67 <br/>
                 Parken auf Gehwegen <br/>
                 ganz in Fahrtrichtung rechts, Ende
-            </td>
-            <td><table>
-                <tr><td align="right"><code>T</code></td><td><code>V</code></td></tr>
-            </table></td>
-        </tr>
-        <tr>
-            <td align="center">
-                <img src="?" height="100px"> <br/>
-                Zeichen 315-68 <br/>
-                Parken auf Gehwegen <br/>
-                ganz in Fahrtrichtung rechts, Mitte
             </td>
             <td><table>
                 <tr><td align="right"><code>T</code></td><td><code>V</code></td></tr>
@@ -454,17 +410,6 @@
         <tr>
             <td align="center">
                 <img src="?" height="100px"> <br/>
-                Zeichen 315-73 <br/>
-                Parken auf Gehwegen <br/>
-                halb quer zur Fahrtrichtung links, Mitte
-            </td>
-            <td><table>
-                <tr><td align="right"><code>T</code></td><td><code>V</code></td></tr>
-            </table></td>
-        </tr>
-        <tr>
-            <td align="center">
-                <img src="?" height="100px"> <br/>
                 Zeichen 315-75 <br/>
                 Parken auf Gehwegen <br/>
                 halb quer zur Fahrtrichtung rechts
@@ -490,17 +435,6 @@
                 Zeichen 315-77 <br/>
                 Parken auf Gehwegen <br/>
                 halb quer zur Fahrtrichtung rechts, Ende
-            </td>
-            <td><table>
-                <tr><td align="right"><code>T</code></td><td><code>V</code></td></tr>
-            </table></td>
-        </tr>
-        <tr>
-            <td align="center">
-                <img src="?" height="100px"> <br/>
-                Zeichen 315-78 <br/>
-                Parken auf Gehwegen <br/>
-                halb quer zur Fahrtrichtung rechts, Mitte
             </td>
             <td><table>
                 <tr><td align="right"><code>T</code></td><td><code>V</code></td></tr>
@@ -542,17 +476,6 @@
         <tr>
             <td align="center">
                 <img src="?" height="100px"> <br/>
-                Zeichen 315-83 <br/>
-                Parken auf Gehwegen <br/>
-                ganz quer zur Fahrtrichtung links, Mitte
-            </td>
-            <td><table>
-                <tr><td align="right"><code>T</code></td><td><code>V</code></td></tr>
-            </table></td>
-        </tr>
-        <tr>
-            <td align="center">
-                <img src="?" height="100px"> <br/>
                 Zeichen 315-85 <br/>
                 Parken auf Gehwegen <br/>
                 ganz quer zur Fahrtrichtung rechts
@@ -578,17 +501,6 @@
                 Zeichen 315-87 <br/>
                 Parken auf Gehwegen <br/>
                 ganz quer zur Fahrtrichtung rechts, Ende
-            </td>
-            <td><table>
-                <tr><td align="right"><code>T</code></td><td><code>V</code></td></tr>
-            </table></td>
-        </tr>
-        <tr>
-            <td align="center">
-                <img src="?" height="100px"> <br/>
-                Zeichen 315-88 <br/>
-                Parken auf Gehwegen <br/>
-                ganz quer zur Fahrtrichtung rechts, Mitte
             </td>
             <td><table>
                 <tr><td align="right"><code>T</code></td><td><code>V</code></td></tr>
