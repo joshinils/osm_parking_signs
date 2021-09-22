@@ -244,7 +244,7 @@
         </tr>
         <tr>
             <td align="center">
-                <img src="?" height="100px"> <br/>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Zeichen_315-50_-_Parken_halb_auf_Gehwegen_in_Fahrtrichtung_links%2C_StVO_1992.svg" height="100px"> <br/>
                 Zeichen 315-50 <br/>
                 Parken auf Gehwegen <br/>
                 halb in Fahrtrichtung links
@@ -255,7 +255,7 @@
         </tr>
         <tr>
             <td align="center">
-                <img src="?" height="100px"> <br/>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Zeichen_315-51_-_Parken_auf_Gehwegen_halb_in_Fahrtrichtung_links%2C_Anfang%2C_StVO_2013.svg" height="100px"> <br/>
                 Zeichen 315-51 <br/>
                 Parken auf Gehwegen <br/>
                 halb in Fahrtrichtung links, Anfang
@@ -266,7 +266,7 @@
         </tr>
         <tr>
             <td align="center">
-                <img src="?" height="100px"> <br/>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Zeichen_315-52_-_Parken_auf_Gehwegen_halb_in_Fahrtrichtung_links%2C_Ende%2C_StVO_2013.svg" height="100px"> <br/>
                 Zeichen 315-52 <br/>
                 Parken auf Gehwegen <br/>
                 halb in Fahrtrichtung links, Ende
@@ -277,7 +277,7 @@
         </tr>
         <tr>
             <td align="center">
-                <img src="?" height="100px"> <br/>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Zeichen_315-55_-_Parken_halb_auf_Gehwegen_in_Fahrtrichtung_rechts%2C_StVO_1992.svg" height="100px"> <br/>
                 Zeichen 315-55 <br/>
                 Parken auf Gehwegen <br/>
                 halb in Fahrtrichtung rechts
@@ -288,7 +288,7 @@
         </tr>
         <tr>
             <td align="center">
-                <img src="?" height="100px"> <br/>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Zeichen_315-56_-_Parken_halb_auf_Gehwegen_in_Fahrtrichtung_rechts_%28Anfang%29%2C_StVO_1992.svg" height="100px"> <br/>
                 Zeichen 315-56 <br/>
                 Parken auf Gehwegen <br/>
                 halb in Fahrtrichtung rechts, Anfang
@@ -299,7 +299,7 @@
         </tr>
         <tr>
             <td align="center">
-                <img src="?" height="100px"> <br/>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Zeichen_315-57_-_Parken_halb_auf_Gehwegen_in_Fahrtrichtung_rechts_%28Ende%29%2C_StVO_1992.svg" height="100px"> <br/>
                 Zeichen 315-57 <br/>
                 Parken auf Gehwegen <br/>
                 halb in Fahrtrichtung rechts, Ende
@@ -310,7 +310,7 @@
         </tr>
         <tr>
             <td align="center">
-                <img src="?" height="100px"> <br/>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Zeichen_315-60_-_Parken_ganz_auf_Gehwegen_in_Fahrtrichtung_links%2C_StVO_1992.svg" height="100px"> <br/>
                 Zeichen 315-60 <br/>
                 Parken auf Gehwegen <br/>
                 ganz in Fahrtrichtung links
@@ -321,7 +321,7 @@
         </tr>
         <tr>
             <td align="center">
-                <img src="?" height="100px"> <br/>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Zeichen_315-61_-_Parken_auf_Gehwegen_ganz_in_Fahrtrichtung_links%2C_Anfang%2C_StVO_2013.svg" height="100px"> <br/>
                 Zeichen 315-61 <br/>
                 Parken auf Gehwegen <br/>
                 ganz in Fahrtrichtung links, Anfang
@@ -332,7 +332,7 @@
         </tr>
         <tr>
             <td align="center">
-                <img src="?" height="100px"> <br/>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Zeichen_315-62_-_Parken_auf_Gehwegen_ganz_in_Fahrtrichtung_links%2C_Ende%2C_StVO_2013.svg" height="100px"> <br/>
                 Zeichen 315-62 <br/>
                 Parken auf Gehwegen <br/>
                 ganz in Fahrtrichtung links, Ende
@@ -343,7 +343,7 @@
         </tr>
         <tr>
             <td align="center">
-                <img src="?" height="100px"> <br/>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zeichen_315-65_-_Parken_ganz_auf_Gehwegen_in_Fahrtrichtung_rechts%2C_StVO_1992.svg" height="100px"> <br/>
                 Zeichen 315-65 <br/>
                 Parken auf Gehwegen <br/>
                 ganz in Fahrtrichtung rechts
@@ -354,7 +354,7 @@
         </tr>
         <tr>
             <td align="center">
-                <img src="?" height="100px"> <br/>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Zeichen_315-66_-_Parken_ganz_auf_Gehwegen_in_Fahrtrichtung_rechts_%28Anfang%29%2C_StVO_1992.svg" height="100px"> <br/>
                 Zeichen 315-66 <br/>
                 Parken auf Gehwegen <br/>
                 ganz in Fahrtrichtung rechts Anfang
@@ -365,7 +365,7 @@
         </tr>
         <tr>
             <td align="center">
-                <img src="?" height="100px"> <br/>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Zeichen_315-67_-_Parken_ganz_auf_Gehwegen_in_Fahrtrichtung_rechts_%28Ende%29%2C_StVO_1992.svg" height="100px"> <br/>
                 Zeichen 315-67 <br/>
                 Parken auf Gehwegen <br/>
                 ganz in Fahrtrichtung rechts, Ende
@@ -376,7 +376,7 @@
         </tr>
         <tr>
             <td align="center">
-                <img src="?" height="100px"> <br/>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Zeichen_315-70_-_Parken_halb_auf_Gehwegen_quer_zur_Fahrtrichtung_links%2C_StVO_1992.svg" height="100px"> <br/>
                 Zeichen 315-70 <br/>
                 Parken auf Gehwegen <br/>
                 halb quer zur Fahrtrichtung links
@@ -387,7 +387,7 @@
         </tr>
         <tr>
             <td align="center">
-                <img src="?" height="100px"> <br/>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Zeichen_315-71_-_Parken_halb_auf_Gehwegen_quer_zur_Fahrtrichtung_links_%28Anfang%29%2C_StVO_1992.svg" height="100px"> <br/>
                 Zeichen 315-71 <br/>
                 Parken auf Gehwegen <br/>
                 halb quer zur Fahrtrichtung links, Anfang
@@ -398,7 +398,7 @@
         </tr>
         <tr>
             <td align="center">
-                <img src="?" height="100px"> <br/>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Zeichen_315-72_-_Parken_halb_auf_Gehwegen_quer_zur_Fahrtrichtung_links_%28Ende%29%2C_StVO_1992.svg" height="100px"> <br/>
                 Zeichen 315-72 <br/>
                 Parken auf Gehwegen <br/>
                 halb quer zur Fahrtrichtung links, Ende
@@ -409,7 +409,7 @@
         </tr>
         <tr>
             <td align="center">
-                <img src="?" height="100px"> <br/>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Zeichen_315-75_-_Parken_halb_auf_Gehwegen_quer_zur_Fahrtrichtung_rechts%2C_StVO_1992.svg" height="100px"> <br/>
                 Zeichen 315-75 <br/>
                 Parken auf Gehwegen <br/>
                 halb quer zur Fahrtrichtung rechts
@@ -420,7 +420,7 @@
         </tr>
         <tr>
             <td align="center">
-                <img src="?" height="100px"> <br/>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Zeichen_315-76_-_Parken_halb_auf_Gehwegen_quer_zur_Fahrtrichtung_rechts_%28Anfang%29%2C_StVO_1992.svg" height="100px"> <br/>
                 Zeichen 315-76 <br/>
                 Parken auf Gehwegen <br/>
                 halb quer zur Fahrtrichtung rechts, Anfang
@@ -431,7 +431,7 @@
         </tr>
         <tr>
             <td align="center">
-                <img src="?" height="100px"> <br/>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Zeichen_315-77_-_Parken_halb_auf_Gehwegen_quer_zur_Fahrtrichtung_rechts_%28Ende%29%2C_StVO_1992.svg" height="100px"> <br/>
                 Zeichen 315-77 <br/>
                 Parken auf Gehwegen <br/>
                 halb quer zur Fahrtrichtung rechts, Ende
@@ -442,7 +442,7 @@
         </tr>
         <tr>
             <td align="center">
-                <img src="?" height="100px"> <br/>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Zeichen_315-80_-_Parken_ganz_auf_Gehwegen_quer_zur_Fahrtrichtung_links%2C_StVO_1992.svg" height="100px"> <br/>
                 Zeichen 315-80 <br/>
                 Parken auf Gehwegen <br/>
                 ganz quer zur Fahrtrichtung links
@@ -453,7 +453,7 @@
         </tr>
         <tr>
             <td align="center">
-                <img src="?" height="100px"> <br/>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Zeichen_315-81_-_Parken_ganz_auf_Gehwegen_quer_zur_Fahrtrichtung_links_%28Anfang%29%2C_StVO_1992.svg" height="100px"> <br/>
                 Zeichen 315-81 <br/>
                 Parken auf Gehwegen <br/>
                 ganz quer zur Fahrtrichtung links, Anfang
@@ -464,7 +464,7 @@
         </tr>
         <tr>
             <td align="center">
-                <img src="?" height="100px"> <br/>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Zeichen_315-82_-_Parken_ganz_auf_Gehwegen_quer_zur_Fahrtrichtung_links_%28Ende%29%2C_StVO_1992.svg" height="100px"> <br/>
                 Zeichen 315-82 <br/>
                 Parken auf Gehwegen <br/>
                 ganz quer zur Fahrtrichtung links, Ende
@@ -475,7 +475,7 @@
         </tr>
         <tr>
             <td align="center">
-                <img src="?" height="100px"> <br/>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Zeichen_315-85_-_Parken_ganz_auf_Gehwegen_quer_zur_Fahrtrichtung_rechts%2C_StVO_1992.svg" height="100px"> <br/>
                 Zeichen 315-85 <br/>
                 Parken auf Gehwegen <br/>
                 ganz quer zur Fahrtrichtung rechts
@@ -486,7 +486,7 @@
         </tr>
         <tr>
             <td align="center">
-                <img src="?" height="100px"> <br/>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Zeichen_315-86_-_Parken_ganz_auf_Gehwegen_quer_zur_Fahrtrichtung_rechts_%28Anfang%29%2C_StVO_1992.svg" height="100px"> <br/>
                 Zeichen 315-86 <br/>
                 Parken auf Gehwegen <br/>
                 ganz quer zur Fahrtrichtung rechts, Anfang
@@ -497,7 +497,7 @@
         </tr>
         <tr>
             <td align="center">
-                <img src="?" height="100px"> <br/>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Zeichen_315-87_-_Parken_ganz_auf_Gehwegen_quer_zur_Fahrtrichtung_rechts_%28Ende%29%2C_StVO_1992.svg" height="100px"> <br/>
                 Zeichen 315-87 <br/>
                 Parken auf Gehwegen <br/>
                 ganz quer zur Fahrtrichtung rechts, Ende
@@ -508,9 +508,9 @@
         </tr>
         <tr>
             <td align="center">
-                <img src="?" height="100px"> <br/>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Zeichen_316_-_Parken_und_Reisen%2C_StVO_1992.svg" height="100px"> <br/>
                 Zeichen 316 <br/>
-                [[Parken und Reisen]]
+                Parken und Reisen
             </td>
             <td><table>
                 <tr><td align="right"><code>T</code></td><td><code>V</code></td></tr>
@@ -518,7 +518,7 @@
         </tr>
         <tr>
             <td align="center">
-                <img src="?" height="100px"> <br/>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Zeichen_316-50_-_Parken_und_Mitfahren%2C_StVO_2017.svg" height="100px"> <br/>
                 Zeichen 316-50 <br/>
                 Parken und Mitfahren
             </td>
@@ -528,7 +528,7 @@
         </tr>
         <tr>
             <td align="center">
-                <img src="?" height="100px"> <br/>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Zeichen_317_-_Wandererparkplatz%2C_StVO_1992.svg" height="100px"> <br/>
                 Zeichen 317 <br/>
                 Wandererparkplatz
             </td>
@@ -538,9 +538,9 @@
         </tr>
         <tr>
             <td align="center">
-                <img src="?" height="100px"> <br/>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Zeichen_318_-_Parkscheibe%2C_StVO_2013.svg" height="100px"> <br/>
                 Zeichen 318 <br/>
-                Parkscheibe<ref>Das Muster der Parkscheibe wurde bereits am 1. Januar 1982 gültig. Siehe: ''Parkscheibe (Bild 291 StVO).'' In: ''Verkehrsblatt.'' Nr. 237 vom 24. November 1981, S. 447.</ref>
+                Parkscheibe
             </td>
             <td><table>
                 <tr><td align="right"><code>T</code></td><td><code>V</code></td></tr>
@@ -548,9 +548,16 @@
         </tr>
         <tr>
             <td align="center">
-                <img src="?" height="100px"> <br/>
-                Zeichen 325.1 <br/>
-                Beginn eines verkehrsberuhigten Bereichs
+                <div style="float: left">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Zeichen_325.1_-_Beginn_eines_verkehrsberuhigten_Bereichs%2C_StVO_2009.svg" height="100px"> <br/>
+                    Zeichen 325.1 <br/>
+                    Beginn eines verkehrsberuhigten Bereichs
+                </div>
+                <div style="float: right">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Zeichen_325.2_-_Ende_eines_verkehrsberuhigten_Bereichs%2C_StVO_2009.svg" height="100px"> <br/>
+                    Zeichen 325.2 <br/>
+                    Ende eines verkehrsberuhigten Bereichs
+                </div>
             </td>
             <td><table>
                 <tr><td align="right"><code>T</code></td><td><code>V</code></td></tr>
@@ -558,19 +565,9 @@
         </tr>
         <tr>
             <td align="center">
-                <img src="?" height="100px"> <br/>
-                Zeichen 325.2 <br/>
-                 Ende eines verkehrsberuhigten Bereichs
-            </td>
-            <td><table>
-                <tr><td align="right"><code>T</code></td><td><code>V</code></td></tr>
-            </table></td>
-        </tr>
-        <tr>
-            <td align="center">
-                <img src="?" height="100px"> <br/>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Zeichen_328_-_Nothalte-_und_Pannenbucht%2C_StVO_2006.svg" height="100px"> <br/>
                 Zeichen 328 <br/>
-                [[Nothaltebucht|Nothalte- und Pannenbucht]]
+                Nothalte- und Pannenbucht
             </td>
             <td><table>
                 <tr><td align="right"><code>T</code></td><td><code>V</code></td></tr>
@@ -578,9 +575,16 @@
         </tr>
         <tr>
             <td align="center">
-                <img src="?" height="100px"> <br/>
-                Zeichen 330.1 <br/>
-                [[Autobahn]]
+                <div style="float: left">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Zeichen_330.1_-_Autobahn%2C_StVO_2013.svg" height="100px"> <br/>
+                    Zeichen 330.1 <br/>
+                    Autobahn
+                </div>
+                <div style="float: right">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Zeichen_330.2_-_Ende_der_Autobahn%2C_StVO_2013.svg" height="100px"> <br/>
+                    Zeichen 330.2 <br/>
+                    Ende der Autobahn
+                </div>
             </td>
             <td><table>
                 <tr><td align="right"><code>T</code></td><td><code>V</code></td></tr>
@@ -588,9 +592,16 @@
         </tr>
         <tr>
             <td align="center">
-                <img src="?" height="100px"> <br/>
-                Zeichen 330.2 <br/>
-                Ende der Autobahn
+                <div style="float: left">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Zeichen_331.1_-_Kraftfahrstra%C3%9Fe%2C_StVO_2013.svg" height="100px"> <br/>
+                    Zeichen 331.1 <br/>
+                    Kraftfahrstraße
+                </div>
+                <div style="float: right">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Zeichen_331.2_-_Ende_der_Kraftfahrstra%C3%9Fe%2C_StVO_2013.svg" height="100px"> <br/>
+                    Zeichen 331.2 <br/>
+                    Ende der Kraftfahrstraße
+                </div>
             </td>
             <td><table>
                 <tr><td align="right"><code>T</code></td><td><code>V</code></td></tr>
@@ -598,40 +609,17 @@
         </tr>
         <tr>
             <td align="center">
-                <img src="?" height="100px"> <br/>
-                Zeichen 331.1 <br/>
-                [[Kraftfahrstraße]]
+                <div style="float: left">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Zeichen_350-20_-_Fu%C3%9Fg%C3%A4nger%C3%BCberweg_%28Linksaufstellung%29_einseitig%2C_StVO_1992.svg" height="100px"> <br/>
+                    Zeichen 350-20 <br/>
+                    Fußgängerüberweg, Aufstellung links
+                </div>
+                <div style="float: right">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Zeichen_350-10_-_Fu%C3%9Fg%C3%A4nger%C3%BCberweg_%28rechts%29%2C_StVO_1992.svg" height="100px"> <br/>
+                    Zeichen 350-10 <br/>
+                    Fußgängerüberweg, Aufstellung rechts
+                </div>
             </td>
-            <td><table>
-                <tr><td align="right"><code>T</code></td><td><code>V</code></td></tr>
-            </table></td>
-        </tr>
-        <tr>
-            <td align="center">
-                <img src="?" height="100px"> <br/>
-                Zeichen 331.2 <br/>
-                Ende der Kraftfahrstraße
-            </td>
-            <td><table>
-                <tr><td align="right"><code>T</code></td><td><code>V</code></td></tr>
-            </table></td>
-        </tr>
-        <tr>
-            <td align="center">
-                <img src="?" height="100px"> <br/>
-                Zeichen 350-10 <br/>
-                [[Fußgängerüberweg]], Aufstellung rechts
-            </td>
-            <td><table>
-                <tr><td align="right"><code>T</code></td><td><code>V</code></td></tr>
-            </table></td>
-        </tr>
-        <tr>
-            <td align="center">
-                <img src="?" height="100px"> <br/>
-                Zeichen 350-20 <br/>
-                Fußgängerüberweg, Aufstellung links
-                </td>
             <td><table>
                 <tr><td align="right"><code>T</code></td><td><code>V</code></td></tr>
             </table></td>
