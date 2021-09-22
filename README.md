@@ -7,12 +7,23 @@
     <tbody>
         <tr>
             <td align="center">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Zeichen_220-20_-_Einbahnstra%C3%9Fe%2C_rechtsweisend%2C_StVO_2017.svg" height="100px"> <br/>
+                Zeichen 220-20 <br/>
+                Einbahnstraße <br/>
+                rechtsweisend
+            </td>
+            <td><table>
+                <tr><td align="right"><code>Tag</code></td><td><code>Value</code></td></tr>
+                <tr><td align="right"><code>T</code></td><td><code>V</code></td></tr>
+            </table></td>
+        </tr>
+        <tr>
+            <td align="center">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Zeichen_224_-_Haltestelle%2C_StVO_2017.svg" height="100px"> <br/>
                 Zeichen 224 <br/>
                 Haltestelle
             </td>
             <td><table>
-                <tr><td align="right"><code>Tag</code></td><td><code>Value</code></td></tr>
                 <tr><td align="right"><code>T</code></td><td><code>V</code></td></tr>
             </table></td>
         </tr>
