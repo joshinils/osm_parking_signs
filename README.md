@@ -624,5 +624,189 @@
                 <tr><td align="right"><code>T</code></td><td><code>V</code></td></tr>
             </table></td>
         </tr>
+        <tr>
+            <td align="center">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Zusatzzeichen_1040-30_-_Zeitliche_Beschr%C3%A4nkung_%2816_-_18_h%29%2C_330x600%2C_StVO_1992.svg" height="100px"> <br/>
+                Zusatzzeichen 1040-30 <br/>
+                Zeitliche Beschränkung (16&nbsp;-&nbsp;18&nbsp;h)
+            </td>
+            <td><table>
+                <tr><td align="right"><code>T</code></td><td><code>V</code></td></tr>
+            </table></td>
+        </tr>
+        <tr>
+            <td align="center">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Zusatzzeichen_1040-32_-_Parkscheibe_2_Stunden%2C_StVO_1992.svg" height="100px"> <br/>
+                Zusatzzeichen 1040-32 <br/>
+                Parkscheibe 2 Stunden
+            </td>
+            <td><table>
+                <tr><td align="right"><code>T</code></td><td><code>V</code></td></tr>
+            </table></td>
+        </tr>
+        <tr>
+            <td align="center">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Zusatzzeichen_1040-33_-_Parken_mit_Parkscheibe_in_gekennzeichneten_Fl%C3%A4chen_2_Stunden%2C_StVO_1992.svg" height="100px"> <br/>
+                Zusatzzeichen 1040-33 <br/>
+                Parken mit Parkscheibe in gekennzeichneten Flächen 2 Stunden
+            </td>
+            <td><table>
+                <tr><td align="right"><code>T</code></td><td><code>V</code></td></tr>
+            </table></td>
+        </tr>
+        <tr>
+            <td align="center">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Zusatzzeichen_1044-10_-_nur_Schwerbehinderte_mit_au%C3%9Fergew%C3%B6hnlicher_Gehbehinderung_und_Blinde%2C_StVO_1992.svg" height="100px"> <br/>
+                Zusatzzeichen 1044-10 <br/>
+                nur Schwerbehinderte mit außergewöhnlicher Gehbehinderung und Blinde
+            </td>
+            <td><table>
+                <tr><td align="right"><code>T</code></td><td><code>V</code></td></tr>
+            </table></td>
+        </tr>
+        <tr>
+            <td align="center">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Zusatzzeichen_1044-11_-_nur_Schwerbehinderte_mit_Parkausweis_Nr_..._%28600x330%29%3B_StVO_1992.svg" height="100px"> <br/>
+                Zusatzzeichen 1044-11 <br/>
+                nur Schwerbehinderte mit Parkausweis Nr. …
+            </td>
+            <td><table>
+                <tr><td align="right"><code>T</code></td><td><code>V</code></td></tr>
+            </table></td>
+        </tr>
+        <tr>
+            <td align="center">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Zusatzzeichen_1044-12_-_Nur_Schwerbehinderte_mit_au%C3%9Fergew%C3%B6hnlicher_Gehbehinderung_und_Blinde%2C_mit_Anzahl_der_Parkst%C3%A4nde%2C_600x450%3B_StVO_2017.svg" height="100px"> <br/>
+                Zusatzzeichen 1044-12 <br/>
+                Nur Schwerbehinderte mit außergewöhnlicher Gehbehinderung und Blinde, mit Anzahl der Parkstände
+            </td>
+            <td><table>
+                <tr><td align="right"><code>T</code></td><td><code>V</code></td></tr>
+            </table></td>
+        </tr>
+        <tr>
+            <td align="center">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Zusatzzeichen_1044-30_-_Bewohner_mit_Parkausweis_Nr._...._%28600x330%29%2C_StVO_2002.svg" height="100px"> <br/>
+                Zusatzzeichen 1044-30 <br/>
+                Bewohner mit Parkausweis Nr. ....
+            </td>
+            <td><table>
+                <tr><td align="right"><code>T</code></td><td><code>V</code></td></tr>
+            </table></td>
+        </tr>
+        <tr>
+            <td align="center">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Zusatzzeichen_1053-30_-_Parken_in_gekennzeichneten_Fl%C3%A4chen_erlaubt%2C_StVO_1992.svg" height="100px"> <br/>
+                Zusatzzeichen 1053-30 <br/>
+                Parken in gekennzeichneten Flächen erlaubt
+            </td>
+            <td><table>
+                <tr><td align="right"><code>T</code></td><td><code>V</code></td></tr>
+            </table></td>
+        </tr>
+        <tr>
+            <td align="center">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Zusatzzeichen_1053-31_-_Mit_Parkschein_%28600x330%29%2C_StVO_2017.svg" height="100px"> <br/>
+                Zusatzzeichen 1053-31 <br/>
+                mit Parkschein
+            </td>
+            <td><table>
+                <tr><td align="right"><code>T</code></td><td><code>V</code></td></tr>
+            </table></td>
+        </tr>
+        <tr>
+            <td align="center">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Zusatzzeichen_1053-32_-_Geb%C3%BChrenpflichtig_%28420x231%29%2C_StVO_2017.svg" height="100px"> <br/>
+                Zusatzzeichen 1053-32 <br/>
+                gebührenpflichtig
+            </td>
+            <td><table>
+                <tr><td align="right"><code>T</code></td><td><code>V</code></td></tr>
+            </table></td>
+        </tr>
+        <tr>
+            <td align="center">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Zusatzzeichen_1053-38_-_Querparken_als_Sinnbild%2C_StVO_2017.svg" height="100px"> <br/>
+                Zusatzzeichen 1053-38 <br/>
+                Querparken als Sinnbild
+            </td>
+            <td><table>
+                <tr><td align="right"><code>T</code></td><td><code>V</code></td></tr>
+            </table></td>
+        </tr>
+        <tr>
+            <td align="center">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zusatzzeichen_1053-39_-_Schr%C3%A4gparken_als_Sinnbild%2C_StVO_2017.svg" height="100px"> <br/>
+                Zusatzzeichen 1053-39 <br/>
+                Schrägparken als Sinnbild
+            </td>
+            <td><table>
+                <tr><td align="right"><code>T</code></td><td><code>V</code></td></tr>
+            </table></td>
+        </tr>
+        <tr>
+            <td align="center">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Zusatzzeichen_1053-52_-_nur_innerhalb_gekennzeichneter_Parkfl%C3%A4chen%2C_StVO_2017.svg" height="100px"> <br/>
+                Zusatzzeichen 1053-52 <br/>
+                nur innerhalb gekenn&shy;zeichneter Parkflächen
+            </td>
+            <td><table>
+                <tr><td align="right"><code>T</code></td><td><code>V</code></td></tr>
+            </table></td>
+        </tr>
+        <tr>
+            <td align="center">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Zusatzzeichen_1053-53_-_Parken_mit_Parkschein_in_gekennzeichneten_Fl%C3%A4chen_%28600_x_600%29%2C_StVO_2017.svg" height="100px"> <br/>
+                Zusatzzeichen 1053-53 <br/>
+                Parken mit Parkschein in gekennzeichneten Flächen
+            </td>
+            <td><table>
+                <tr><td align="right"><code>T</code></td><td><code>V</code></td></tr>
+            </table></td>
+        </tr>
+        <tr>
+            <td align="center">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Zusatzzeichen_1060-31_-_Haltverbot_auch_auf_dem_Seitenstreifen_%28600x330%29%2C_StVO_2017.svg" height="100px"> <br/>
+                Zusatzzeichen 1060-31 <br/>
+                Haltverbot auch auf dem Seitenstreifen
+            </td>
+            <td><table>
+                <tr><td align="right"><code>T</code></td><td><code>V</code></td></tr>
+            </table></td>
+        </tr>
+                <tr>
+            <td align="center">
+                <div style="float: left">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Zeichen_244.3_-_Beginn_einer_Fahrradzone%2C_StVO_2020.svg" height="100px"> <br/>
+                    Zeichen 244.3 <br/>
+                    Beginn einer Fahrradzone
+                </div>
+                <div style="float: right">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Zeichen_244.4_-_Ende_einer_Fahrradzone%2C_StVO_2020.svg" height="100px"> <br/>
+                    Zeichen 244.4 <br/>
+                    Ende einer Fahrradzone
+                </div>
+            </td>
+            <td><table>
+                <tr><td align="right"><code>T</code></td><td><code>V</code></td></tr>
+            </table></td>
+        </tr>
+        <tr>
+            <td align="center">
+                <div style="float: left">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Zeichen_350.1_-_Radschnellweg%3B_StVO_2020.svg" height="100px"> <br/>
+                    Zeichen 350.1 <br/>
+                    Radschnellweg
+                </div>
+                <div style="float: right">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Zeichen_350.2_-_Ende_des_Radschnellwegs%3B_StVO_2020.svg" height="100px"> <br/>
+                    Zeichen 350.2 <br/>
+                    Ende des Radschnellwegs
+                </div>
+            </td>
+            <td><table>
+                <tr><td align="right"><code>T</code></td><td><code>V</code></td></tr>
+            </table></td>
+        </tr>
     </tbody>
 </table>
