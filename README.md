@@ -1,4 +1,5 @@
 # OSM Parking Signs Tagging
+See osm wiki [parking:lane](https://wiki.openstreetmap.org/wiki/Key:parking:lane) for tagging reference.
 <table>
     <thead><tr>
             <th style="text-align: center">Verkehrszeichen</th>
@@ -261,7 +262,8 @@
                 halb in Fahrtrichtung links
             </td>
             <td><table>
-                <tr><td align="right"><code>T</code></td><td><code>V</code></td></tr>
+                <tr><td align="right"><code>parking:lane:left</code></td><td><code>parallel</code></td></tr>
+                <tr><td align="right"><code>parking:lane:left:parallel</code></td><td><code>half_on_kerb</code></td></tr>
             </table></td>
         </tr>
         <tr>
@@ -280,7 +282,8 @@
                 </div>
             </td>
             <td><table>
-                <tr><td align="right"><code>T</code></td><td><code>V</code></td></tr>
+                <tr><td align="right"><code>parking:lane:left</code></td><td><code>parallel</code></td></tr>
+                <tr><td align="right"><code>parking:lane:left:parallel</code></td><td><code>half_on_kerb</code></td></tr>
             </table></td>
         </tr>
         <tr>
@@ -291,7 +294,8 @@
                 halb in Fahrtrichtung rechts
             </td>
             <td><table>
-                <tr><td align="right"><code>T</code></td><td><code>V</code></td></tr>
+                <tr><td align="right"><code>parking:lane:right</code></td><td><code>parallel</code></td></tr>
+                <tr><td align="right"><code>parking:lane:right:parallel</code></td><td><code>half_on_kerb</code></td></tr>
             </table></td>
         </tr>
         <tr>
@@ -310,7 +314,8 @@
                 </div>
             </td>
             <td><table>
-                <tr><td align="right"><code>T</code></td><td><code>V</code></td></tr>
+                <tr><td align="right"><code>parking:lane:right</code></td><td><code>parallel</code></td></tr>
+                <tr><td align="right"><code>parking:lane:right:parallel</code></td><td><code>half_on_kerb</code></td></tr>
             </table></td>
         </tr>
         <tr>
@@ -321,7 +326,8 @@
                 ganz in Fahrtrichtung links
             </td>
             <td><table>
-                <tr><td align="right"><code>T</code></td><td><code>V</code></td></tr>
+                <tr><td align="right"><code>parking:lane:left</code></td><td><code>parallel</code></td></tr>
+                <tr><td align="right"><code>parking:lane:left:parallel</code></td><td><code>on_kerb</code></td></tr>
             </table></td>
         </tr>
         <tr>
@@ -340,7 +346,8 @@
                 </div>
             </td>
             <td><table>
-                <tr><td align="right"><code>T</code></td><td><code>V</code></td></tr>
+                <tr><td align="right"><code>parking:lane:left</code></td><td><code>parallel</code></td></tr>
+                <tr><td align="right"><code>parking:lane:left:parallel</code></td><td><code>on_kerb</code></td></tr>
             </table></td>
         </tr>
         <tr>
@@ -351,7 +358,8 @@
                 ganz in Fahrtrichtung rechts
             </td>
             <td><table>
-                <tr><td align="right"><code>T</code></td><td><code>V</code></td></tr>
+                <tr><td align="right"><code>parking:lane:right</code></td><td><code>parallel</code></td></tr>
+                <tr><td align="right"><code>parking:lane:right:parallel</code></td><td><code>on_kerb</code></td></tr>
             </table></td>
         </tr>
         <tr>
@@ -370,7 +378,8 @@
                 </div>
             </td>
             <td><table>
-                <tr><td align="right"><code>T</code></td><td><code>V</code></td></tr>
+                <tr><td align="right"><code>parking:lane:right</code></td><td><code>parallel</code></td></tr>
+                <tr><td align="right"><code>parking:lane:right:parallel</code></td><td><code>on_kerb</code></td></tr>
             </table></td>
         </tr>
         <tr>
@@ -381,7 +390,8 @@
                 halb quer zur Fahrtrichtung links
             </td>
             <td><table>
-                <tr><td align="right"><code>T</code></td><td><code>V</code></td></tr>
+                <tr><td align="right"><code>parking:lane:left</code></td><td><code>perpendicular</code></td></tr>
+                <tr><td align="right"><code>parking:lane:left:parallel</code></td><td><code>half_on_kerb</code></td></tr>
             </table></td>
         </tr>
         <tr>
@@ -400,7 +410,8 @@
                 </div>
             </td>
             <td><table>
-                <tr><td align="right"><code>T</code></td><td><code>V</code></td></tr>
+                <tr><td align="right"><code>parking:lane:left</code></td><td><code>perpendicular</code></td></tr>
+                <tr><td align="right"><code>parking:lane:left:parallel</code></td><td><code>half_on_kerb</code></td></tr>
             </table></td>
         </tr>
         <tr>
@@ -411,7 +422,8 @@
                 halb quer zur Fahrtrichtung rechts
             </td>
             <td><table>
-                <tr><td align="right"><code>T</code></td><td><code>V</code></td></tr>
+                <tr><td align="right"><code>parking:lane:right</code></td><td><code>perpendicular</code></td></tr>
+                <tr><td align="right"><code>parking:lane:right:parallel</code></td><td><code>half_on_kerb</code></td></tr>
             </table></td>
         </tr>
         <tr>
@@ -430,7 +442,8 @@
                 </div>
             </td>
             <td><table>
-                <tr><td align="right"><code>T</code></td><td><code>V</code></td></tr>
+                <tr><td align="right"><code>parking:lane:right</code></td><td><code>perpendicular</code></td></tr>
+                <tr><td align="right"><code>parking:lane:right:parallel</code></td><td><code>half_on_kerb</code></td></tr>
             </table></td>
         </tr>
         <tr>
@@ -441,7 +454,8 @@
                 ganz quer zur Fahrtrichtung links
             </td>
             <td><table>
-                <tr><td align="right"><code>T</code></td><td><code>V</code></td></tr>
+                <tr><td align="right"><code>parking:lane:left</code></td><td><code>perpendicular</code></td></tr>
+                <tr><td align="right"><code>parking:lane:left:parallel</code></td><td><code>on_kerb</code></td></tr>
             </table></td>
         </tr>
         <tr>
@@ -460,7 +474,8 @@
                 </div>
             </td>
             <td><table>
-                <tr><td align="right"><code>T</code></td><td><code>V</code></td></tr>
+                <tr><td align="right"><code>parking:lane:left</code></td><td><code>perpendicular</code></td></tr>
+                <tr><td align="right"><code>parking:lane:left:parallel</code></td><td><code>on_kerb</code></td></tr>
             </table></td>
         </tr>
         <tr>
@@ -471,7 +486,8 @@
                 ganz quer zur Fahrtrichtung rechts
             </td>
             <td><table>
-                <tr><td align="right"><code>T</code></td><td><code>V</code></td></tr>
+                <tr><td align="right"><code>parking:lane:right</code></td><td><code>perpendicular</code></td></tr>
+                <tr><td align="right"><code>parking:lane:right:parallel</code></td><td><code>on_kerb</code></td></tr>
             </table></td>
         </tr>
         <tr>
@@ -490,7 +506,8 @@
                 </div>
             </td>
             <td><table>
-                <tr><td align="right"><code>T</code></td><td><code>V</code></td></tr>
+                <tr><td align="right"><code>parking:lane:right</code></td><td><code>perpendicular</code></td></tr>
+                <tr><td align="right"><code>parking:lane:right:parallel</code></td><td><code>on_kerb</code></td></tr>
             </table></td>
         </tr>
         <tr>
